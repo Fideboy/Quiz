@@ -1,0 +1,27 @@
+*{
+  box-sizing: border-box;
+  background-color:burlywood;
+}
+.question {
+    padding: 20px 0px;
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+  }
+  .options {
+    margin-bottom: 20px;
+    padding-left: 50px;
+    display: flex;
+    justify-content: center;
+  }
+  button{
+    border-radius: 15px;
+    font-size: 20px;
+    background-color: whitesmoke;
+  }
+  .next-button {
+    border-radius: 5px;
+    font-size: 17px;
+    margin-left: 30%;
+    background-color:rgb(99, 99, 231);
+  }
